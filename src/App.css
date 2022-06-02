@@ -44,9 +44,15 @@
   margin-bottom: 10px;
   margin-left: 32px;
 }
+.custom-input:hover{
+  background-color: rgb(148, 220, 241);
+}
 .custom-inputt{
   margin-bottom: 10px;
   margin-left: 9px;
+}
+.custom-inputt:hover{
+  background-color: rgb(148, 220, 241);
 }
 .lable{
   margin-right: 5px;
